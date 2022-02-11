@@ -1,0 +1,1 @@
+Underwater robots play an important role in oceanic geological exploration, resource exploitation, ecological research, and other fields. Unfortunately, due to low contrast and color distortion the quality of underwater image could be very poor. Implement a method able to enhance underwater images such the one reported below.

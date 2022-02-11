@@ -1,0 +1,1 @@
+You want to develop an application able to monitor the number of bolts on a conveyor belt. You assume to have an overhead shot, as in the figure reported below. Moreover, you assume that the conveyor belt has a homogenous color and that bolts are the only objects extending in a particular direction while the other objects (washers and nuts) are circular ones.
